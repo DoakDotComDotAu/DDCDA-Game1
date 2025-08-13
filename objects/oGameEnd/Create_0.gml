@@ -1,0 +1,1 @@
+audio_play_sound(snd_win, 2, false); // 1 = priority, true = loop
